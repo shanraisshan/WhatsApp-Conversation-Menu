@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<resources>
+    <color name="colorPrimary">#ff00766a</color>
+    <color name="colorPrimaryDark">#ff054d44</color>
+    <color name="colorAccent">#ff00897b</color>
+</resources>

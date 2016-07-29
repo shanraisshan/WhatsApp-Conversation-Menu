@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<resources>
+
+    <item type="id" name="toolbar">false</item>
+    <item type="id" name="menu_attachments">false</item>
+
+    <item type="id" name="menu_attachment_document">false</item>
+    <item type="id" name="menu_attachment_camera">false</item>
+    <item type="id" name="menu_attachment_gallery">false</item>
+    <item type="id" name="menu_attachment_audio">false</item>
+    <item type="id" name="menu_attachment_location">false</item>
+    <item type="id" name="menu_attachment_contact">false</item>
+
+</resources>
