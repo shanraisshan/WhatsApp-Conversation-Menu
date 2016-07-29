@@ -13,6 +13,9 @@ Acknowledgement
 ----
 Based on [CircularReveal library](https://github.com/ozodrukh/CircularReveal)
 
+Preview
+----
+![alt tag](https://github.com/shanraisshan/WhatsApp-Conversation-Menu/blob/master/Shayan/whatsappmenu_image.gif)
 
 License
 ----
